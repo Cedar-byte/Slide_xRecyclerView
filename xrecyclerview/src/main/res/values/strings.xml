@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">XRecyclerView</string>
+    <string name="listview_header_last_time">上次更新时间：</string>
+</resources>

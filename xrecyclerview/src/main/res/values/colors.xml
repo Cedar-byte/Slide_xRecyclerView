@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+
+    <color name="colorPrimary">#FF000000</color>
+    <color name="colorPrimaryDark">#FF000000</color>
+
+    <color name="green_">#43BB96</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="green">#FF43BB96</color>
+    <color name="yellow">#F99503</color>
+    <color name="grayyy">#FF4F657E</color>
+    <color name="black_contact">#FF4D4D4D</color>
+    <color name="green_more">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="gray_dialog">#FF424242</color>
+    <color name="gray_">#8A000000</color>
+    <color name="persionnal_puperwidow">#FF4A4A4A</color>
+    <color name="persionnal_puperwidow_line">#FFE3E3E3</color>
+    <color name="gray_text">#FF9B9B9B</color>
+    <color name="gray_black">#505050</color>
+    <color name="gray_white">#969696</color>
+    <color name="gray_circle">#80FFFFFF</color>
+    <color name="gray_setting">#F2F2F2</color>
+    <color name="black_text">#DE000000</color>
+    <color name="red_text">#FFF43A51</color>
+    <color name="red_zimu">#FFEF4481</color>
+    <color name="here_time">#FFB6B6B6</color>
+    <color name="background">#181819</color>
+    <color name="dark_gray">#FF343535</color>
+    <color name="gray_line">#FFD2D6DB</color>
+    <color name="text_black">#FF333333</color>
+    <color name="separation">#FFDCDCDC</color>
+    <color name="photo_mask">#88000000</color>
+    <color name="yancy_green500">#259b24</color>
+    <color name="yancy_green700">#0a7e07</color>
+    <color name="collection_popuwindow">#8A000000</color>
+    <color name="gray_txt">#FF4A4A4A</color>
+    <color name="grayline">#FFD8D8D8</color>
+    <color name="whitecircle">#FFF2F2F2</color>
+    <color name="time_bg">#4D9B9B9B</color>
+
+    #FFB6B6B6
+
+
+
+
+</resources>
